@@ -33,7 +33,7 @@ fields:
   hidden: false
   default: ''
 - type: file
-  name: imageimage
+  name: image
   label: image
 pages:
 - content/blog/test.md
