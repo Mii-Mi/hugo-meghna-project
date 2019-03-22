@@ -1,6 +1,6 @@
 baseURL = "https://blissful-pasteur-77b218.netlify.com/"
-languageCode = "en-us"
-DefaultContentLanguage = "en"
+languageCode = "fr-FR"
+DefaultContentLanguage = "fr"
 title = "Meghna"
 theme = "meghna-hugo"
 summaryLength = 10

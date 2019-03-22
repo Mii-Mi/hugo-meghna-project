@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blissful-pasteur-77b218.netlify.com/blog/test/</loc>
+    <lastmod>2019-03-21T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blissful-pasteur-77b218.netlify.com/blog/are-you-doing-the-right-way/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
@@ -40,12 +45,30 @@
   
   <url>
     <loc>https://blissful-pasteur-77b218.netlify.com/blog/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <lastmod>2019-03-21T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blissful-pasteur-77b218.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blissful-pasteur-77b218.netlify.com/author/c%C3%A9cile/</loc>
+    <lastmod>2019-03-21T23:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blissful-pasteur-77b218.netlify.com/categories/dev/</loc>
+    <lastmod>2019-03-21T23:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blissful-pasteur-77b218.netlify.com/tags/forestry/</loc>
+    <lastmod>2019-03-21T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,7 +88,7 @@
   
   <url>
     <loc>https://blissful-pasteur-77b218.netlify.com/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <lastmod>2019-03-21T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -81,6 +104,7 @@
   
   <url>
     <loc>https://blissful-pasteur-77b218.netlify.com/tags/</loc>
+    <lastmod>2019-03-21T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
