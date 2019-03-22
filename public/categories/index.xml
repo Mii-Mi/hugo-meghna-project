@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Meghna</title>
-    <link>https://blissful-pasteur-77b218.netlify.com/categories/</link>
-    <description>Recent content in Categories on Meghna</description>
+    <title>Categories on Meghna-mimi</title>
+    <link>https://meghna-mimi.netlify.com/categories/</link>
+    <description>Recent content in Categories on Meghna-mimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     
-	<atom:link href="https://blissful-pasteur-77b218.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://meghna-mimi.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dev</title>
-      <link>https://blissful-pasteur-77b218.netlify.com/categories/dev/</link>
+      <link>https://meghna-mimi.netlify.com/categories/dev/</link>
       <pubDate>Thu, 21 Mar 2019 23:00:00 +0000</pubDate>
       
-      <guid>https://blissful-pasteur-77b218.netlify.com/categories/dev/</guid>
+      <guid>https://meghna-mimi.netlify.com/categories/dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starting</title>
-      <link>https://blissful-pasteur-77b218.netlify.com/categories/starting/</link>
+      <link>https://meghna-mimi.netlify.com/categories/starting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blissful-pasteur-77b218.netlify.com/categories/starting/</guid>
+      <guid>https://meghna-mimi.netlify.com/categories/starting/</guid>
       <description></description>
     </item>
     

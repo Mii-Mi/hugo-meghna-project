@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Forestry on Meghna</title>
-    <link>https://blissful-pasteur-77b218.netlify.com/tags/forestry/</link>
-    <description>Recent content in Forestry on Meghna</description>
+    <title>Forestry on Meghna-mimi</title>
+    <link>https://meghna-mimi.netlify.com/tags/forestry/</link>
+    <description>Recent content in Forestry on Meghna-mimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Thu, 21 Mar 2019 23:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blissful-pasteur-77b218.netlify.com/tags/forestry/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://meghna-mimi.netlify.com/tags/forestry/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>https://blissful-pasteur-77b218.netlify.com/blog/test/</link>
+      <link>https://meghna-mimi.netlify.com/blog/test/</link>
       <pubDate>Thu, 21 Mar 2019 23:00:00 +0000</pubDate>
       
-      <guid>https://blissful-pasteur-77b218.netlify.com/blog/test/</guid>
+      <guid>https://meghna-mimi.netlify.com/blog/test/</guid>
       <description>Bonjour, je m&amp;rsquo;appelle Mimi et je suis un amour de minette !</description>
     </item>
     

@@ -3,118 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/blog/test/</loc>
+    <loc>https://meghna-mimi.netlify.com/blog/test/</loc>
     <lastmod>2019-03-21T23:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/blog/are-you-doing-the-right-way/</loc>
+    <loc>https://meghna-mimi.netlify.com/blog/are-you-doing-the-right-way/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/blog/simple-post-title/</loc>
+    <loc>https://meghna-mimi.netlify.com/blog/simple-post-title/</loc>
     <lastmod>2018-09-12T14:39:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/blog/simple-image-post/</loc>
+    <loc>https://meghna-mimi.netlify.com/blog/simple-image-post/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/author/jamica-jock/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <loc>https://meghna-mimi.netlify.com/author/jamica-jock/</loc>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/author/john-doe/</loc>
-    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <loc>https://meghna-mimi.netlify.com/author/john-doe/</loc>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/author/somrat/</loc>
-    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
+    <loc>https://meghna-mimi.netlify.com/author/somrat/</loc>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/author/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <loc>https://meghna-mimi.netlify.com/auteur/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/blog/</loc>
+    <loc>https://meghna-mimi.netlify.com/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://meghna-mimi.netlify.com/blog/</loc>
     <lastmod>2019-03-21T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/categories/</loc>
+    <loc>https://meghna-mimi.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/author/c%C3%A9cile/</loc>
+    <loc>https://meghna-mimi.netlify.com/categories/dev/</loc>
     <lastmod>2019-03-21T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/categories/dev/</loc>
+    <loc>https://meghna-mimi.netlify.com/tags/forestry/</loc>
     <lastmod>2019-03-21T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/tags/forestry/</loc>
+    <loc>https://meghna-mimi.netlify.com/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://meghna-mimi.netlify.com/blog/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://meghna-mimi.netlify.com/tags/hugo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://meghna-mimi.netlify.com/</loc>
     <lastmod>2019-03-21T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/tags/golang/</loc>
+    <loc>https://meghna-mimi.netlify.com/tags/programming/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/blog/installation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/tags/hugo/</loc>
+    <loc>https://meghna-mimi.netlify.com/categories/starting/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/</loc>
+    <loc>https://meghna-mimi.netlify.com/tags/</loc>
     <lastmod>2019-03-21T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/tags/programming/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/categories/starting/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/tags/</loc>
-    <lastmod>2019-03-21T23:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/tags/theme/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blissful-pasteur-77b218.netlify.com/author/themefisher/</loc>
+    <loc>https://meghna-mimi.netlify.com/tags/theme/</loc>
     <priority>0</priority>
   </url>
   

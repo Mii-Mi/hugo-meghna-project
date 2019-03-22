@@ -1,12 +1,12 @@
-baseURL = "https://blissful-pasteur-77b218.netlify.com/"
+baseURL = "https://meghna-mimi.netlify.com/"
 languageCode = "fr-FR"
 DefaultContentLanguage = "fr"
-title = "Meghna"
+title = "Meghna-mimi"
 theme = "meghna-hugo"
 summaryLength = 10
 
 [taxonomies]
-  author = "author"
+  author = "auteur"
   category = "categories"
   tag = "tags"
 
